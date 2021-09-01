@@ -1,0 +1,26 @@
+﻿.svgNoImages {
+  margin: 0;
+  width: 25rem;
+  height: 25rem;
+  position: relative;
+  left: 20rem;
+  top: 4rem;
+}
+.h1NoImages {
+  display: inline-block;
+  margin: 0;
+  position: relative;
+  left: -3rem;
+  top: 21rem;
+}
+
+.card {
+  width: 300px;
+  height: 200px;
+  border: transparent !important;
+}
+
+p {
+  color: #000000;
+  font-size: 18px;
+}

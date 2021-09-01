@@ -1,0 +1,21 @@
+.perfilContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: sticky;
+  top: 8rem;
+}
+.iconContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: sticky;
+  top: 8rem;
+}
+.colContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: sticky;
+  top: 8rem;
+}
